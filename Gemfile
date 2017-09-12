@@ -10,6 +10,7 @@ gem 'rails', '~> 5.0.2'
 gem 'pg'
 gem 'puma', '~> 3.0'
 gem 'jsonapi_suite', '~> 0.6'
+gem 'jsonapi_errorable', '0.6.1'
 gem 'jsonapi-rails', '~> 0.1'
 gem 'kaminari', '~> 0.17'
 

@@ -70,7 +70,7 @@ GEM
       jsonapi-renderer (~> 0.1)
     jsonapi_compliable (0.6.1)
       jsonapi-serializable (~> 0.1)
-    jsonapi_errorable (0.6.0)
+    jsonapi_errorable (0.6.1)
       jsonapi-serializable (~> 0.1)
       rails (>= 4.1, < 6)
     jsonapi_spec_helpers (0.3.2)
@@ -192,6 +192,7 @@ DEPENDENCIES
   factory_girl_rails (~> 4.0)
   faker
   jsonapi-rails (~> 0.1)
+  jsonapi_errorable (= 0.6.1)
   jsonapi_suite (~> 0.6)
   kaminari (~> 0.17)
   listen (~> 3.0.5)
@@ -206,4 +207,4 @@ DEPENDENCIES
   tzinfo-data
 
 BUNDLED WITH
-   1.14.6
+   1.15.4
